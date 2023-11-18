@@ -35,7 +35,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 😏 𝐍𝐀𝐌𝐄:- PICCI-𝐀𝐁𝐈𝐑𝐱𝐀𝐃𝐑𝐈𝐘𝐀𝐍
+- 😏 𝐍𝐀𝐌𝐄:- 𝐀𝐁𝐈𝐑𝐱𝐀𝐃𝐑𝐈𝐘𝐀𝐍
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -47,7 +47,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- ❤ 𝐋𝐎𝐕𝐄𝐑:- 𝐀𝐌𝐌𝐎
+- ❤ 𝐋𝐎𝐕𝐄𝐑:- TERMUX
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
